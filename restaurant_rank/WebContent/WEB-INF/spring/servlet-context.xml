@@ -17,7 +17,7 @@
 	</bean>
 	
 	<!-- java 공통 package 설정 -->
-	<context:component-scan base-package="kh.com.c"/>
+	<context:component-scan base-package="rank.restaurant.project"/>
 	
 	<!-- 주석문의 사용 허가  (Service, Dao)-->
 	<mvc:annotation-driven/>
